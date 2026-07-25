@@ -27,6 +27,11 @@ An enterprise-grade, data-driven automation application built with **Python**, *
 2.Install the required enterprise dependency matrix:
   ```bash
   pip install streamlit pandas requests openpyxl oracledb
+
+
+
+
+
 3.Launch the reactive agent infrastructure locally:
   ```bash
   py -m streamlit run ai_sql_agent.py
