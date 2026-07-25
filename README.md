@@ -3,7 +3,7 @@
 An enterprise-grade, data-driven automation application built with **Python**, **Streamlit**, and **Oracle Database** concepts. This system empowers non-technical business executives (Management, Sales, Finance) to query relational Oracle infrastructures using natural language (English/Chinese) via an AI-driven SQL compiler.
 
 ## 🚀 Live Interactive Demo
-👉 **[CLICK HERE TO TRY THE LIVE DASHBOARD](此处先留空，等下一小步我们拿到网址后贴在这里)** 
+👉 **https://justin-sql-agent.streamlit.app/** 
 *(Features a built-in interactive simulation mode. No database setup or API keys required to test the core features.)*
 
 ## 🌟 Core Business Value
